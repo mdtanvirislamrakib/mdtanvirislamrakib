@@ -1,16 +1,26 @@
 ![logo](https://github.com/mdtanvirislamrakib/mdtanvirislamrakib/blob/main/github-banner.png)
-<h1 align="center">Hi 👋, I'm Tanvir Islam Rakib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="450">
+<h1 align="center">Hi 👋, I'm Rakib</h1>
+<h3 align="center">Passionate Web Developer with expertise in JavaScript, React.js and Node.js. I specialize in building scalable and efficient web applications while continuously learning and contributing to open-source projects. With a strong foundation in both frontend and backend development, I thrive on solving complex problems and optimizing user experiences. Currently, I am focused on mastering advanced JavaScript concepts and expanding my knowledge in full-stack development. Let's connect and collaborate to create impactful digital solutions!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtanvirislamrakib&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirislamrakib" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, react JS**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirislamrakib" alt="mdtanvirislamrakib" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript, react JS, Node JS, Express JS, MongoDB**
+
+- 👯 I’m looking to collaborate on **GitHub**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mdtanvirislamrakib](https://github.com/mdtanvirislamrakib)
+
+- 💬 Ask me about **react, node, JavaScript, TailwindCSS**
+
+- 📫 How to reach me **mdtanvirislamrakib7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanvir-islam-rakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanvir-islam-rakib/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanvir-islam-rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-islam-rakib" height="30" width="40" /></a>
 <a href="https://discord.gg/rakib06327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rakib06327" height="30" width="40" /></a>
 </p>
 

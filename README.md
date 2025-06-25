@@ -1,3 +1,6 @@
+
+<img src="./profile-banner-image.png" />
+
 # 💫 About Me:
 👋 Hi, I’m MD. Tanvir Islam Rakib<br>💻 Passionate about Full-Stack Web Development<br>🌱 Currently learning the MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>📁 Check out my projects and progress here on GitHub<br>🔭 I’m aiming to become a professional full-stack developer<br>📫 Reach me at: [mdtanvirislamrakib7@gmail.com]<br>🌍 From: Bangladesh<br>✨ Always eager to learn, build, and contribute!<br><br>
 

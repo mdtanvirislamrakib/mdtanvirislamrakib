@@ -1,5 +1,5 @@
 
-<img src="./profile-banner-image.png" />
+<img src="./rakib-banner.png" />
 
 
 # 💫 About Me:
